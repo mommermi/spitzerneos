@@ -9,8 +9,7 @@ Telescope` and serves as a backup for the `official SpitzerNEOs website
 contains 2204 diameter and albedo estimates for 2132 different objects.
 
 The data compiled here are publicly available. If you use the data, please cite
-`Trilling et al. 2010 <https://ui.adsabs.harvard.edu/abs/2010AJ....140..
-.770T/abstract>`_ and
+`Trilling et al. 2010 <https://ui.adsabs.harvard.edu/abs/2010AJ....140..770T/abstract>`_ and
 `Trilling et al. 2016 <https://ui.adsabs.harvard.edu/abs/2016AJ....152..172T/abstract>`_.
 
 
